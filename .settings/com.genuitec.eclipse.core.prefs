@@ -1,0 +1,4 @@
+#Sun Jun 26 14:59:01 CST 2016
+eclipse.preferences.version=1
+validator.Checked=WebRoot/adminjsps/admin/category/list.jsp,WebRoot/adminjsps/admin/book/desc.jsp
+validator.Unchecked=
